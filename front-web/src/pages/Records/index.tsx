@@ -4,7 +4,6 @@ import './style.css';
 import { RecordsResponse } from './types'; 
 import { formatDate } from './helper';
 import Pagination from './Pagination';
-import {Link} from 'react-router-dom';
 import Filters from '../../components/Filters'
 
 const BASE_URL = 'https://sds-projeto-game.herokuapp.com'
